@@ -1,0 +1,14 @@
+{
+  "name": "rsq",
+  "version": "1.0.0",
+  "description": "A really simple queue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "Kevin Xi",
+  "license": "MIT"
+}
